@@ -1,1 +1,1 @@
-# Machine-Learning-applications
+# Pneumonia recognition based on chest xray
