@@ -1,5 +1,5 @@
 # Pneumonia recognition based on chest xray
-Competition on kaggle https://www.kaggle.com/paultimothymooney/chest-xray-pneumoni
+Competition on kaggle https://www.kaggle.com/paultimothymooney/chest-xray-pneumoni \
 For visualization decision making by neural network https://github.com/totti0223/gradcamplusplus
 
 Model | Accuracy
