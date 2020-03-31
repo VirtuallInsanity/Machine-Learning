@@ -25,4 +25,4 @@ Image of patient with viral pneumonia\
 ![Viral_pneumonia](https://github.com/VirtuallInsanity/Machine-Learning/blob/pneumonia_xray/20eph_vgg16_frozen_adam0001/test_pneumonia_virus.png)
 
 Image of patient with bacterial pneumonia\
-![Bacterial_Pneumonia](https://github.com/VirtuallInsanity/Machine-   Learning/blob/pneumonia_xray/20eph_vgg16_frozen_adam0001/test_pneumonia_bacteria.png)
+![Bacterial_Pneumonia](https://github.com/VirtuallInsanity/Machine-Learning/blob/pneumonia_xray/20eph_vgg16_frozen_adam0001/test_pneumonia_bacteria.png)
