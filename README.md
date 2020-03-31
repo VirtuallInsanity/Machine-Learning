@@ -16,10 +16,10 @@ Model #3 (RMSprop) | 81,25%
 
 # Visualization examples
 Image of healty patient
-![Normal_image](https://github.com/VirtuallInsanity/Machine-Learning/blob/pneumonia_xray/20eph_vgg16_frozen_adam0001/test_normal.png)\
+![Normal](https://github.com/VirtuallInsanity/Machine-Learning/blob/pneumonia_xray/20eph_vgg16_frozen_adam0001/test_normal.png)
 Image of healty patient
-![Normal_image 2](https://github.com/VirtuallInsanity/Machine-Learning/blob/pneumonia_xray/20eph_vgg16_frozen_adam0001/test_normal_2.png)\
+![Normal_image 2](https://github.com/VirtuallInsanity/Machine-Learning/blob/pneumonia_xray/20eph_vgg16_frozen_adam0001/test_normal_2.png)
 Image of patient infected with viral pneumonia
-![Viral_pneumonia](https://github.com/VirtuallInsanity/Machine-Learning/blob/pneumonia_xray/20eph_vgg16_frozen_adam0001/test_pneumonia_virus.png)\
+![Viral_pneumonia](https://github.com/VirtuallInsanity/Machine-Learning/blob/pneumonia_xray/20eph_vgg16_frozen_adam0001/test_pneumonia_virus.png)
 Image of patient infected with bacterial pneumonia
-![Bacterial_Pneumonia](https://github.com/VirtuallInsanity/Machine-Learning/blob/pneumonia_xray/20eph_vgg16_frozen_adam0001/test_pneumonia_bacteria.png)\
+![Bacterial_Pneumonia](https://github.com/VirtuallInsanity/Machine-Learning/blob/pneumonia_xray/20eph_vgg16_frozen_adam0001/test_pneumonia_bacteria.png)
