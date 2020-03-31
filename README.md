@@ -13,3 +13,8 @@ Model #2 (adam) | 84,134%
 Model #2 (RMSprop) | 80,929%
 Model #3 (adam) | 85,416%
 Model #3 (RMSprop) | 81,25%
+
+![Normal image](https://github.com/VirtuallInsanity/Machine-Learning/blob/pneumonia_xray/20eph_vgg16_frozen_adam0001/test_normal.png)
+![Normal image 2](https://github.com/VirtuallInsanity/Machine-Learning/blob/pneumonia_xray/20eph_vgg16_frozen_adam0001/test_normal_2.png)
+![Viral pneumonia](https://github.com/VirtuallInsanity/Machine-Learning/blob/pneumonia_xray/20eph_vgg16_frozen_adam0001/test_pneumonia_virus.png)
+![Bacterial Pneumonia](https://github.com/VirtuallInsanity/Machine-Learning/blob/pneumonia_xray/20eph_vgg16_frozen_adam0001/test_pneumonia_bacteria.png)
